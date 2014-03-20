@@ -1,4 +1,4 @@
-// Frame
+// Update Frame
 // Changes the frame of a view
 //
 // IDECodeSnippetCompletionPrefix: changeframe
