@@ -1,5 +1,5 @@
 // Frame
-// 
+// Changes the frame of a view
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 85AA2632-5810-4220-98D2-B2FD01253913
