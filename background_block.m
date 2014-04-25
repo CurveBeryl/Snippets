@@ -1,5 +1,5 @@
 // Background Block
-// 
+// Excecutes the code on the background queue
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 41B87F56-1553-4A00-B6FF-EC4E0B8AAA46
