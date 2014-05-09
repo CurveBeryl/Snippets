@@ -1,5 +1,5 @@
 // Class Singleton
-// 
+// Creates a singleton for the current class
 //
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 4F5FE225-5F4E-463A-B3A3-AEE6DC13510A
