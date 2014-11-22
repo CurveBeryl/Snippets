@@ -2,11 +2,11 @@
 // Define a Swift class.
 //
 // IDECodeSnippetCompletionPrefix: class
-// IDECodeSnippetCompletionScopes: [ClassImplementation,TopLevel]
-// IDECodeSnippetIdentifier: 1427DBFD-DFB2-4796-84F0-A56BE43CAF27
+// IDECodeSnippetCompletionScopes: [TopLevel,ClassImplementation]
+// IDECodeSnippetIdentifier: 42600924-60FD-4FBF-95DB-D763C1881E83
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Swift
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 class <#name#> {
     <#properties and methods#>
 }
