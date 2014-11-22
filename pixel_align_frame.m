@@ -1,5 +1,5 @@
 // Pixel Align Frame
-// 
+// Align rect to pixel coordinates
 //
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 6E8ADF60-8EC5-4947-91AD-14DDE82CAA9B
